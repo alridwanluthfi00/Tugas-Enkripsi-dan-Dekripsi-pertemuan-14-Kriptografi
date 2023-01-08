@@ -5,7 +5,7 @@
 # Matkul          : Kriptografi
 # Dosen pengampu  : Donny Maulana, S.Kom., M.M.S.I
 
-Coding Enkripsi dan Dekripsi
+## Coding Enkripsi dan Dekripsi
 
 #include <iostream>
 #include <string>
